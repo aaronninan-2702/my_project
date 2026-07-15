@@ -1,0 +1,11 @@
+1. Tell me about yourself.
+
+Answer:
+
+My name is Aaron Ninan, and I am currently a third-year B.Tech Computer Engineering student at K.J. Somaiya School of Engineering. I have a strong interest in software development, problem-solving, and building practical applications.
+
+Recently, I completed my internship at Hindustan Petroleum Corporation Limited (HPCL), where I worked with the Human Resources Department under the SC/ST Liaison Cell. During my internship, I contributed to developing a digital handbook, improving HR documentation, and creating a centralized grievance management solution to streamline processes.
+
+Alongside academics, I enjoy learning new technologies like the MERN stack and C++, and I constantly work on projects that improve my technical and analytical skills. I consider myself a quick learner, adaptable, and someone who enjoys working in teams.
+
+
